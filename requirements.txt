@@ -8,6 +8,7 @@ plyfile
 kornia
 open3d
 timm==0.6.11
+small_gicp
 submodules/diff-gaussian-rasterization
 submodules/simple-knn
 git+https://github.com/facebookresearch/pytorch3d.git@stable
