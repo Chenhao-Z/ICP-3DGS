@@ -9,6 +9,7 @@ kornia
 open3d
 timm==0.6.11
 small_gicp
+simpleicp
 submodules/simple-knn
 git+https://github.com/ashawkey/diff-gaussian-rasterization.git
 git+https://github.com/facebookresearch/pytorch3d.git@stable
